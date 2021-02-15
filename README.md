@@ -1,1 +1,2 @@
 # TruthTableGenerator
+see master branch 
